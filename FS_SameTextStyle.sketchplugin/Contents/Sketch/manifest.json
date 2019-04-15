@@ -1,0 +1,28 @@
+{
+  "author" : "Freeman Sun",
+  "icon": "icons/logo.png",
+  "commands" : [
+    {
+      "script" : "report-size.js",
+      "name" : "Text-Size in this page",
+      "identifier" : "com.bohemiancoding.sketch.fstextstylereport"
+      },
+      {
+        "script" : "report-color.js",
+        "name" : "Text-Color in this page",
+        "identifier" : "com.bohemiancoding.sketch.fsfontcolorreport"
+      }
+  ],
+  "menu" : {
+    "title" : "FS_TextStyles",
+    "items" : [
+            "com.bohemiancoding.sketch.fstextstylereport",
+            "com.bohemiancoding.sketch.fsfontcolorreport"
+    ]
+  },
+  "identifier" : "com.example.sketch.91cc9354-631c-437f-a4a4-eff90c2e45fd",
+  "version" : "2.2",
+  "description" : "Tools help designers to verify Text-Size, Color's consistency in one page.",
+  "authorEmail" : "freeman990@qq.com",
+  "name" : "FS_SameTextStyle"
+}
