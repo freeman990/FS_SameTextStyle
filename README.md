@@ -8,4 +8,4 @@ After years of design-system, symbold-orinted-design-file-managment practice, Yo
 It will list every color+opacty sets or font-sizes used in the dorucment, and give you abilty to select corresponding textlayers, so you can do anything you want with them...It even helps you spot those textlayer with fill-style on, and give them special "FILL" tag in the list to highlight them.
 
 ## How to install
-Click that green download master button on the top right, unzip and double-click .sketchplugin file.
+**[Download](https://github.com/freeman990/FS_SameTextStyle/archive/master.zip)** this file, unzip and double-click .sketchplugin file.
